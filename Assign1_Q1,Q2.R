@@ -1,8 +1,6 @@
 #Statistical Data Mining
 #Assignment Homework
-# UBIT : hsuvarna
 # Created on :11 September
-#Last updated : 15th September
 
 ################################
 ############Problem 1 and 2:
